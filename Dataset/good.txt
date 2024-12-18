@@ -37,4 +37,5 @@
 (S (VP (VBP Nitagdon) (NNP kana)) (PP (P (IN sa))) (NP (NNP Makagagahum)))
 (S (AdvP (RB Bisag)) (VP (VBP pustaan) (RB pa)) (JJP (JJ duna)) (AdvP (RB nay)) (VP (VBP mopatokar)(DET og) (NN awit)) (PP (P (IN sa) (NNP Pasko) (VBP sugod) (NN ugma))))
 (S (JJP (JJ (JJ Bikil) (Adv kaayo) (Adv ning))) (NP (NN bataa)))
+(S (NP (NN Pagpahamtang)) (PP (P (IN sa))) (AdvP (RB mas)) (JJP (JJ (JJ taas) (Linker nga) (NN ligal) (Linker nga) (NN kapangakohan))))
 
