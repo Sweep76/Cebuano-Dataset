@@ -17,4 +17,4 @@
 (S (VP (V Nipalit)) (NP (N siya)) (PP (P ug) (N bulak)) (PP (P para kang) (N Ana)))
 (S (VP (V Kinsa)) (CP (C ang) (VP (V nakakita)) (PP (P sa) (Det akong) (N libro))))
 (S (VP (V Naglingkod)) (NP (N si Lola)) (PP (P sa) (N duyan)))
-(S (VP (Neg Dili)) (NP (N ko)) (VP (V makadungog)) (PP (P nimo)) (CP (C palihog) (AdvP (Adv usab))))
+(S (VP (Neg Dili)) (NP (VBN ko)) (VP (V makadungog)) (PP (P nimo)) (CP (C palihog) (AdvP (Adv usab))))
