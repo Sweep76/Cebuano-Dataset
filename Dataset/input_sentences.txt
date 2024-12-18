@@ -1,1 +1,0 @@
-(S (VP (Neg Dili)) (NP (N ko)) (VP (V makadungog)) (PP (P nimo)) (CP (C palihog) (AdvP (Adv usab))))
