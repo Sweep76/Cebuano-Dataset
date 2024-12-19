@@ -1,0 +1,1 @@
+(S (JJP (JJ (JJ Bikil) (Adv kaayo) (Adv ning))) (NP (NN bataa)))
