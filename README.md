@@ -1,19 +1,11 @@
-# Parse Tree Visualization
+# Cebuano Parser
 
-This repository contains Python scripts for converting bracketed sentence structures into parse trees and visualizing those trees using the Natural Language Toolkit (NLTK). The scripts read sentences from an input file formatted with square brackets, transform them into a tree representation, and display the trees both textually and graphically.
+## Overview
+This project implements a constituency parser for the Cebuano language using the CKY (Cocke-Kasami-Younger) algorithm. The parser takes input sentences in a bracketed format, processes them, and produces parse trees, enabling the analysis of Cebuano sentence structures.
 
-## Table of Contents
+## Features
 
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Overview](#code-overview)
-- [Example Input](#example-input)
-- [License](#license)
-
-## Requirements
-
-- Python 3.x
-- NLTK library
-- Matplotlib library
-- Regular expressions (part of Python standard library)
+- Parses Cebuano sentences using the CKY algorithm.
+- Supports input in bracketed format.
+- Generates and visualizes parse trees.
+- Includes an evaluator for assessing parsing performance.
