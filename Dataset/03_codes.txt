@@ -1,0 +1,32 @@
+NN - singular noun
+NNS - plural noun
+NNP - proper noun
+VBD - past tense verb
+VBZ - 3rd person singular present tense verb
+VBP - non-3rd person singular present tense verb
+VBN - past participle
+PRP - pronoun
+PRP$ - possessive pronoun
+JJ - adjective
+JJP - adjective phrase
+IN - preposition or complementizer
+DET - Determiner
+
+NP - noun phrase
+VP- verb phrase
+PP - prepositional phrase in the five
+S - sentence
+
+VBD - past tense
+VBZ - present tense
+VBP - present tense
+3rd - person plural
+
+VB base
+VBG - present participle, Gform
+VBN - past participle, N-form
+MD - modal
+TO - auxiliary to
+
+NEG - negate (wala)
+PAR - particle (sa)
