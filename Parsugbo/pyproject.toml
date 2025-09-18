@@ -1,0 +1,22 @@
+[project]
+name = "parsugbo"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "NoodleSushi", email = "ytmikesstuffs@gmail.com"},
+]
+dependencies = [
+    "cebdict @ git+https://github.com/NoodleSushi/Cebuano-Dictionary.git",
+    "cebstemmer @ git+https://github.com/NoodleSushi/Cebuano-Stemmer.git",
+]
+requires-python = ">=3.13"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = true
+
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
