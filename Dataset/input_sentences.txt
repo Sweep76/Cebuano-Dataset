@@ -1,1 +1,1 @@
-(S (JJP (JJ Pangdaku)) (VP (V (VBN natapos)) (NP (NN tahas))))
+(S (JJP (JJ Andam)) (VP (V (VBZ usab) (Linker nga) (VBZ mohatag))) (NP (DET ang) (NN probinsiya)) (PP (P (IN sa))) (JJP (JJ (JJ gikinahanglan) (Linker nga) (NN counterpart))))
